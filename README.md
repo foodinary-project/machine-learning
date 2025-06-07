@@ -11,7 +11,7 @@ Indonesia dianugerahi kekayaan kuliner yang sangat beragam dan mengagumkan. Namu
 Dataset yang kami gunakan dalam proyek ini adalah kumpulan gambar makanan tradisional Indonesia. Kami telah mengumpulkan dan melabeli gambar-gambar ini secara saksama untuk memastikan kualitas data yang baik untuk pelatihan model.
 
 - **Link Dataset:** Dataset lengkap dapat diunduh melalui link Google Drive berikut:
-  [Unduh Dataset Makanan Tradisional Indonesia - Foodinary](https://drive.google.com/drive/folders/1qkYX9xYrxV8H0_moeGQi-MPkmawsHbES)
+  [Unduh Dataset Makanan Tradisional Indonesia - Foodinary](https://drive.google.com/drive/folders/1SB7_8YWgeIgKwcCrQxLDP976uaRFOWBU?usp=sharing)
 - **Jumlah Kelas:** Kami telah mengidentifikasi dan mengumpulkan data untuk **30 kelas** makanan yang berbeda.
 - **Daftar Kelas Makanan:**
   - `ayam_bakar`
@@ -98,7 +98,7 @@ Untuk menjalankan kode dan melatih model dalam proyek kami, berikut langkah-lang
     ```
 
 3.  **Unduh Dataset:**
-    Pastikan untuk mengunduh dataset dari [link ini](https://drive.google.com/drive/folders/1qkYX9xYrxV8H0_moeGQi-MPkmawsHbES) dan meletakkannya ke dalam folder `unprocessed_dataset/` seperti yang telah kami jelaskan di bagian Dataset.
+    Pastikan untuk mengunduh dataset dari [link ini](https://drive.google.com/drive/folders/1SB7_8YWgeIgKwcCrQxLDP976uaRFOWBU?usp=sharing) dan meletakkannya ke dalam folder `unprocessed_dataset/` seperti yang telah kami jelaskan di bagian Dataset.
 
 ## notebooks Menjalankan Model dan Kode Kami
 
